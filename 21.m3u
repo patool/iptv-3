@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,mousssa_beIN Sports HD 1 MAX
+http://31.220.50.230:8000/live/leaksat/freecupworldbyleaksat/4.ts
+#EXTINF:-1,mousssa_beIN Sports HD 2 MAX
+http://31.220.50.230:8000/live/leaksat/freecupworldbyleaksat/5.ts
+#EXTINF:-1,mousssa_beIN Sports SD 1 MAX
+http://31.220.50.230:8000/live/leaksat/freecupworldbyleaksat/6.ts
+#EXTINF:-1,mousssa_beIN Sports SD 2 MAX
+http://31.220.50.230:8000/live/leaksat/freecupworldbyleaksat/7.ts
+#EXTINF:-1,mousssa_beIN Sports VeryLow 1 MAX
+http://31.220.50.230:8000/live/leaksat/freecupworldbyleaksat/10.ts
+#EXTINF:-1,mousssa_beIN Sports VeryLow 2 MAX
+http://31.220.50.230:8000/live/leaksat/freecupworldbyleaksat/11.ts
+#EXTINF:-1,mousssa_beIN Sports Low 1 MAX
+http://31.220.50.230:8000/live/leaksat/freecupworldbyleaksat/8.ts
+#EXTINF:-1,mousssa_beIN Sports Low 2 MAX
+http://31.220.50.230:8000/live/leaksat/freecupworldbyleaksat/9.ts
+#EXTINF:-1,mousssa_beIN Sports FullHD 1 MAX
+http://31.220.50.230:8000/live/leaksat/freecupworldbyleaksat/2.ts
+#EXTINF:-1,mousssa_beIN Sports FullHD 2 MAX
+http://31.220.50.230:8000/live/leaksat/freecupworldbyleaksat/3.ts
+#EXTINF:-1,mousssa_beIN Sports 1 MAX (Radio)
+http://31.220.50.230:8000/live/leaksat/freecupworldbyleaksat/12.ts
+#EXTINF:-1,mousssa_beIN Sports 2 MAX (Radio)
+http://31.220.50.230:8000/live/leaksat/freecupworldbyleaksat/13.ts
